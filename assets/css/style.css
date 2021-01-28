@@ -121,11 +121,21 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 992px) {
   #header h1 {
+    color:black;
     font-size: 36px;
+    background-color:white;
+    opacity: 75%;
+    
   }
   #header h2 {
     font-size: 20px;
     line-height: 30px;
+    background-color: black;
+    color: white;
+    opacity: 80%;
+  }
+  #header h2 span{
+    color: pink;
   }
   #header .social-links {
     margin-top: 15px;
