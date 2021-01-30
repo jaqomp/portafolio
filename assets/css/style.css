@@ -71,6 +71,8 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
+  margin-left: 30px;
+
 }
 
 #header h1 a, #header h1 a:hover {
@@ -83,12 +85,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   margin-top: 20px;
   color:  rgb(109, 102, 102);
+  margin-left: 50px;
 }
 
 #header h2 span {
   color: rgb(109, 102, 102);
   border-bottom: 2px solid  #f7b0cd;
   padding-bottom: 6px;
+  
 }
 
 #header img {
@@ -99,6 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .social-links {
   margin-top: 40px;
   display: flex;
+  margin-left: 60px;
 }
 
 #header .social-links a {
@@ -133,6 +138,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: black;
     color: white;
     opacity: 80%;
+    padding-left: 5px;
   }
   #header h2 span{
     color: pink;
@@ -153,6 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Desktop Navigation */
 .nav-menu {
   margin-top: 35px;
+  margin-left: 70px;
 }
 
 .nav-menu ul {
