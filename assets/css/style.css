@@ -103,7 +103,11 @@ h1, h2, h3, h4, h5, h6 {
 #header .social-links {
   margin-top: 40px;
   display: flex;
+<<<<<<< HEAD
   margin-left: 60px;
+=======
+  margin-left: 65px;
+>>>>>>> ef3ace8a68328dc0b77fa68ca281f1d58488adc4
 }
 
 #header .social-links a {
